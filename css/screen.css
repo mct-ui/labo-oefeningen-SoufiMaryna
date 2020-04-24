@@ -171,6 +171,7 @@ hr {
 a {
     color:white;
     transition: all .1s ease-in-out;
+    text-decoration: none;
 }
 
 a:visited,
@@ -451,6 +452,14 @@ a:focus {
     color:#DBEDFF;
     text-shadow: 0 0 8px white;
 
+}
+.cta-button {
+    display: inline-block;
+    line-height: 24px;
+    padding: 24px 32px;
+    margin: -10px 8px 0 16px;
+    background: linear-gradient(to right,#033AA7,#0053FB);
+    box-shadow:0 0 5px #1195FF;
 }
 /*------------------------------------*\
   #UTILITIES
