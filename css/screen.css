@@ -390,9 +390,8 @@ a:focus {
 \*------------------------------------*/
 .c-header {
     display: wrap;
-    justify-content: space-between;
-    align-items: center;
 }
+    
 .c-logo {
     height: 32px;
     display: flex;
@@ -430,10 +429,9 @@ a:focus {
         display: flex;
         justify-content: flex-end;
     }
-    .c-header__ {
+    .c-header{
         display: flex;
     }
-       
         
     
     
